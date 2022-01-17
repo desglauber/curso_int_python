@@ -1,0 +1,4 @@
+Glauber,10,10,5,5
+Felipe,7,8,5,6
+Ulysses,7,8,5,6
+Manoel,7,9,3,8
